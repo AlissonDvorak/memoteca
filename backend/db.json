@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Foi de Americanas no chat",
+      "autoria": "alguem",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "No meu pc funciona",
+      "autoria": "eu",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Nao esqueca do espaco",
+      "autoria": "eu",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "sadasda",
+      "autoria": "dasdasdasd",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
